@@ -4,4 +4,4 @@ AirBnB is a complete web application, integrating database storage, a back-end A
 
 This is part 1 of our AirBnb Clone project. The purpose of this project is to make a command interpreter that manages our AirBnb objects.
 # DATA DIAGRAM
-
+![data-diagram](images/data_diagram.jpg)
